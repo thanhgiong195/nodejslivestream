@@ -189,4 +189,9 @@ video {
   #showChat {
     display: flex;
   }
+
+  .videos__group {
+    display: block;
+    overflow: auto;
+  }
 }
